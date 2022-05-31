@@ -1,0 +1,1235 @@
+Nagri Depot towards Harsh Vihar
+
+Route: 208UP
+Old: 7823.0
+New 3992.0
+Route: 208UP
+Old: 6313.0
+New 3867.0
+Route: 208UP
+Old: 7277.0
+New 3877.0
+Route: 208DOWN
+Trip 485_21_40
+Old: 4408.0
+New 2849.0
+Route: 208DOWN
+Trip 485_21_20
+Old: 1323.0
+New 2859.0
+
+
+Harsh Vihar towards Nagri Depot
+
+Route: 208UP
+Old: 7823.0
+New 3992.0
+Route: 208UP
+Old: 6313.0
+New 3867.0
+Route: 208UP
+Old: 7277.0
+New 3877.0
+Route: 208DOWN
+Trip 485_21_40
+Old: 4408.0
+New 2849.0
+Route: 208DOWN
+Trip 485_21_20
+Old: 1323.0
+New 2859.0
+
+
+Nand Nagri Depot towards Yamuna Vihar
+
+Route: 208UP
+Old: 7823.0
+New 3992.0
+Route: 208UP
+Old: 6313.0
+New 3867.0
+Route: 208UP
+Old: 7277.0
+New 3877.0
+Route: 208DOWN
+Trip 485_21_40
+Old: 4408.0
+New 2849.0
+Route: 208DOWN
+Trip 485_21_20
+Old: 1323.0
+New 2859.0
+
+
+Welcome Metro  towards seelampur
+
+Route: 143UP
+Old: 11547.0
+New 35465.0
+Route: 143UP
+Old: 7764.0
+New 3552.0
+Route: 143UP
+Old: 5729.0
+New 5196.0
+Route: 143DOWN
+Trip 412_21_10
+Old: 5792.0
+New 3316.0
+Route: 143DOWN
+Trip 412_21_00
+Old: 5443.0
+New 1862.0
+Route: 143DOWN
+Trip 412_11_30
+Old: 8143.0
+New 35477.0
+
+
+Welcome Metro  towards seelampur
+
+Route: 143UP
+Old: 11547.0
+New 35465.0
+Route: 143UP
+Old: 7764.0
+New 3552.0
+Route: 143UP
+Old: 5729.0
+New 5196.0
+Route: 143DOWN
+Trip 412_21_10
+Old: 5792.0
+New 3316.0
+Route: 143DOWN
+Trip 412_21_00
+Old: 5443.0
+New 1862.0
+Route: 143DOWN
+Trip 412_11_30
+Old: 8143.0
+New 35477.0
+
+
+Signature bridge towards Khajuri
+
+Route: 208UP
+Old: 7823.0
+New 3992.0
+Route: 208UP
+Old: 6313.0
+New 3867.0
+Route: 208UP
+Old: 7277.0
+New 3877.0
+Route: 208DOWN
+Trip 485_21_40
+Old: 4408.0
+New 2849.0
+Route: 208DOWN
+Trip 485_21_20
+Old: 1323.0
+New 2859.0
+
+
+Bhajanpura towards Yamuna Vihar
+
+Route: 208UP
+Old: 7823.0
+New 3992.0
+Route: 208UP
+Old: 6313.0
+New 3867.0
+Route: 208UP
+Old: 7277.0
+New 3877.0
+Route: 208DOWN
+Trip 485_21_40
+Old: 4408.0
+New 2849.0
+Route: 208DOWN
+Trip 485_21_20
+Old: 1323.0
+New 2859.0
+
+
+Yamuna Vihar C-4 towards Nand Nagri
+
+Route: 208UP
+Old: 7823.0
+New 3992.0
+Route: 208UP
+Old: 6313.0
+New 3867.0
+Route: 208UP
+Old: 7277.0
+New 3877.0
+Route: 208DOWN
+Trip 485_21_40
+Old: 4408.0
+New 2849.0
+Route: 208DOWN
+Trip 485_21_20
+Old: 1323.0
+New 2859.0
+
+
+Nand Nagri Depot towards Bhopura
+
+Route: 208UP
+Old: 7823.0
+New 3992.0
+Route: 208UP
+Old: 6313.0
+New 3867.0
+Route: 208UP
+Old: 7277.0
+New 3877.0
+Route: 208DOWN
+Trip 485_21_40
+Old: 4408.0
+New 2849.0
+Route: 208DOWN
+Trip 485_21_20
+Old: 1323.0
+New 2859.0
+
+
+IPD To Sarai Kale Khan
+
+Route: 318DOWN
+Trip 1219_21_30
+Old: 3711.0
+New 7351.0
+Route: 318DOWN
+Trip 1219_21_00
+Old: 1843.0
+New 5871.0
+
+
+RRR Bridge to IPD
+
+Route: 318DOWN
+Trip 1219_21_30
+Old: 3711.0
+New 7351.0
+Route: 318DOWN
+Trip 1219_21_00
+Old: 1843.0
+New 5871.0
+
+IPD To Rajghat
+
+
+
+Shanti Van To
+Kashmiri Gate
+
+Route: 706UP
+Old: 9538.0
+New 9680.0
+Route: 706UP
+Old: 7523.0
+New 7657.0
+Route: 706UP
+Old: 9160.0
+New 6941.0
+Route: 706UP
+Old: 9564.0
+New 9778.0
+Route: 706UP
+Old: 7910.0
+New 7238.0
+Route: 706UP
+Old: 9121.0
+New 9297.0
+Route: 706UP
+Old: 7306.0
+New 7498.0
+Route: 706UP
+Old: 7801.0
+New 7345.0
+Route: 706UP
+Old: 7705.0
+New 7421.0
+Route: 706UP
+Old: 8993.0
+New 2712.0
+Route: 706UP
+Old: 9410.0
+New 3495.0
+Route: 706UP
+Old: 9663.0
+New 9027.0
+Route: 706UP
+Old: 9695.0
+New 9303.0
+Route: 706DOWN
+Trip 704_15_40
+Old: 7930.0
+New 8488.0
+Route: 706DOWN
+Trip 704_15_50
+Old: 8096.0
+New 7696.0
+Route: 706DOWN
+Trip 704_16_40
+Old: 8023.0
+New 7598.0
+Route: 706DOWN
+Trip 704_16_50
+Old: 7554.0
+New 7768.0
+Route: 706DOWN
+Trip 704_18_50
+Old: 7821.0
+New 7250.0
+Route: 706DOWN
+Trip 704_15_20
+Old: 7789.0
+New 7865.0
+Route: 706DOWN
+Trip 704_14_50
+Old: 8092.0
+New 5178.0
+Route: 706DOWN
+Trip 704_19_20
+Old: 7406.0
+New 7665.0
+Route: 706DOWN
+Trip 704_19_50
+Old: 7671.0
+New 7657.0
+
+
+
+
+
+Kashmiri Gate
+To Mori Gate
+
+
+
+
+
+
+
+
+
+
+
+
+jhimil towards Apsra Border
+
+
+
+
+
+Shayam Giri Mandir towards K. gate
+
+
+
+
+
+K. gate  towards Rajghat
+
+Shyam giri mandir  towards Seelampur
+
+
+
+
+
+Geeta colony towards gandhi nagar
+Seelampur  towards Shyamlal college
+
+
+
+
+
+Rajghat  towards IP Depot
+K. gate  towards shayam giri mandir
+
+
+
+
+
+AZAD PUR TO JAHINGER PURI METRO
+
+
+
+
+
+
+
+
+
+
+
+
+
+AZAD PUR TO JAHINGER PURI METRO
+
+
+
+
+
+
+
+
+
+
+
+
+
+JAHINGIR PURI METRO TO M B CHOWK
+
+
+
+
+
+
+
+
+MADHUBAN CHOWK AZAD PUR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MADHUBAN CHOWK AZAD PUR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AZAD PUR TO GTK BY PASS
+
+
+
+
+
+
+
+Route: 123UP
+Old: 11502.0
+New 10661.0
+Route: 123UP
+Old: 9970.0
+New 10672.0
+Route: 123UP
+Old: 10257.0
+New 9561.0
+Route: 123DOWN
+Trip 1254_16_20
+Old: 11517.0
+New 10973.0
+Route: 123DOWN
+Trip 1254_14_30
+Old: 11077.0
+New 10816.0
+Route: 123DOWN
+Trip 1254_14_00
+Old: 11004.0
+New 9331.0
+
+
+
+
+
+
+AZAD PUR TO ASHOK VIHAR  X-ING
+
+
+
+
+
+
+
+PUNJABI BAGH TO RAM PURA 
+
+
+
+
+
+ZAKIRA TO INDER LOK
+
+
+
+
+Route: 144AUP
+Old: 8714.0
+New 7397.0
+Route: 144AUP
+Old: 5613.0
+New 7078.0
+Route: 144AUP
+Old: 8706.0
+New 989.0
+Route: 144AUP
+Old: 8571.0
+New 8272.0
+Route: 144AUP
+Old: 8715.0
+New 6382.0
+Route: 144ADOWN
+Trip 614_17_10
+Old: 7929.0
+New 10903.0
+Route: 144ADOWN
+Trip 614_16_30
+Old: 8468.0
+New 10459.0
+Route: 144ADOWN
+Trip 614_15_30
+Old: 5517.0
+New 10251.0
+Route: 144ADOWN
+Trip 614_15_00
+Old: 9798.0
+New 10730.0
+Route: 144ADOWN
+Trip 614_14_50
+Old: 9084.0
+New 10199.0
+
+
+INDERLOK METRO TO PRITAM PURA
+
+
+Route: 144AUP
+Old: 8714.0
+New 7397.0
+Route: 144AUP
+Old: 5613.0
+New 7078.0
+Route: 144AUP
+Old: 8706.0
+New 989.0
+Route: 144AUP
+Old: 8571.0
+New 8272.0
+Route: 144AUP
+Old: 8715.0
+New 6382.0
+Route: 144ADOWN
+Trip 614_17_10
+Old: 7929.0
+New 10903.0
+Route: 144ADOWN
+Trip 614_16_30
+Old: 8468.0
+New 10459.0
+Route: 144ADOWN
+Trip 614_15_30
+Old: 5517.0
+New 10251.0
+Route: 144ADOWN
+Trip 614_15_00
+Old: 9798.0
+New 10730.0
+Route: 144ADOWN
+Trip 614_14_50
+Old: 9084.0
+New 10199.0
+
+
+SHALIMAR BAGH PUNJABI BAGAH
+
+
+
+
+
+
+
+
+
+
+SHALIMAR BAGH PUNJABI BAGAH
+
+
+
+
+
+Route: 153UP
+Old: 7928.0
+New 1024.0
+Route: 153UP
+Old: 7701.0
+New 7280.0
+Route: 153UP
+Old: 9820.0
+New 1252.0
+Route: 153DOWN
+Trip 100_15_10
+Old: 6756.0
+New 316.0
+Route: 153DOWN
+Trip 100_14_30
+Old: 6781.0
+New 5703.0
+Route: 153DOWN
+Trip 100_21_30
+Old: 5737.0
+New 5338.0
+Route: 153DOWN
+Trip 100_16_00
+Old: 6559.0
+New 7266.0
+Route: 153DOWN
+Trip 100_16_30
+Old: 6634.0
+New 12150.0
+Route: 153DOWN
+Trip 100_17_30
+Old: 7507.0
+New 6210.0
+
+
+PEERA GHARI TO MADHUBAN CHOWK
+
+
+
+
+
+
+
+
+PEERA GHARI TO MADHUBAN CHOWK
+
+
+
+
+
+
+
+PEERA GHARI TO MADHUBAN CHOWK
+
+
+
+
+PEERA GHARI TO MADHUBAN CHOWK
+
+
+
+
+
+
+ASHRAM CHOWK TO BADARPUR BORDER
+
+
+
+
+
+
+
+
+
+
+ASHRAM CHOWK TO BADARPUR BORDER
+
+
+
+
+
+
+
+
+
+
+AUROBINDO MARG TO ANDHERIA MORE
+
+
+
+
+
+
+
+
+
+
+
+MEHRAULI - BADARPUR (ROAD)
+
+
+
+
+
+
+
+
+
+
+
+ITO TO Dr. AMBEDKAR NAGAR(VIA BRT CORIDOR)
+
+
+
+
+
+
+
+
+
+NEHRU PALACE TO SUBROTO PARK
+
+Route: 774UP
+Old: 4452.0
+New 8184.0
+Route: 774UP
+Old: 6855.0
+New 3813.0
+Route: 774UP
+Old: 25591.0
+New 15816.0
+Route: 774UP
+Old: 4519.0
+New 13349.0
+Route: 774UP
+Old: 10038.0
+New 10316.0
+Route: 774UP
+Old: 4989.0
+New 4869.0
+Route: 774UP
+Old: 9349.0
+New 7651.0
+Route: 774UP
+Old: 8104.0
+New 8053.0
+Route: 774UP
+Old: 393.0
+New 6051.0
+Route: 774UP
+Old: 4645.0
+New 1327.0
+Route: 774UP
+Old: 3938.0
+New 3021.0
+Route: 774DOWN
+Trip 49_11_40
+Old: 6689.0
+New 11996.0
+Route: 774DOWN
+Trip 49_13_50
+Old: 371.0
+New 6252.0
+Route: 774DOWN
+Trip 49_14_10
+Old: 7279.0
+New 2542.0
+Route: 774DOWN
+Trip 49_14_40
+Old: 7060.0
+New 8164.0
+Route: 774DOWN
+Trip 49_10_50
+Old: 5832.0
+New 3960.0
+Route: 774DOWN
+Trip 49_15_50
+Old: 9353.0
+New 6184.0
+Route: 774DOWN
+Trip 49_16_20
+Old: 7987.0
+New 6518.0
+Route: 774DOWN
+Trip 49_10_30
+Old: 8700.0
+New 3813.0
+Route: 774DOWN
+Trip 49_16_00
+Old: 5472.0
+New 13270.0
+Route: 774DOWN
+Trip 49_18_00
+Old: 8228.0
+New 8823.0
+Route: 774DOWN
+Trip 49_18_20
+Old: 9789.0
+New 8917.0
+Route: 774DOWN
+Trip 49_18_30
+Old: 502.0
+New 8455.0
+Route: 774DOWN
+Trip 49_17_10
+Old: 10402.0
+New 7985.0
+Route: 774DOWN
+Trip 49_21_00
+Old: 6963.0
+New 1286.0
+
+
+
+
+
+SSN MARG (CDR CHOWK TO BHATI MINES)
+
+Nawaada to Wards Dwarka More 
+
+Route: 998UP
+Old: 7163.0
+New 6536.0
+Route: 998UP
+Old: 7533.0
+New 6345.0
+Route: 998UP
+Old: 6750.0
+New 6978.0
+Route: 998UP
+Old: 8349.0
+New 7036.0
+Route: 998UP
+Old: 8991.0
+New 6872.0
+Route: 998UP
+Old: 7615.0
+New 6718.0
+Route: 998DOWN
+Trip 700_15_30
+Old: 5936.0
+New 5308.0
+Route: 998DOWN
+Trip 700_14_40
+Old: 5953.0
+New 912.0
+Route: 998DOWN
+Trip 700_16_30
+Old: 5218.0
+New 5359.0
+Route: 998DOWN
+Trip 700_17_00
+Old: 4967.0
+New 5293.0
+Route: 998DOWN
+Trip 700_18_50
+Old: 8103.0
+New 5580.0
+
+
+
+
+
+Route: 824UP
+Old: 4834.0
+New 4329.0
+Route: 824UP
+Old: 4545.0
+New 4059.0
+Route: 824UP
+Old: 6052.0
+New 4794.0
+Route: 824UP
+Old: 4422.0
+New 5606.0
+Route: 824DOWN
+Trip 1144_16_40
+Old: 4174.0
+New 6543.0
+Route: 824DOWN
+Trip 1144_18_10
+Old: 4948.0
+New 4820.0
+Route: 824DOWN
+Trip 1144_14_50
+Old: 6272.0
+New 6920.0
+Route: 824DOWN
+Trip 1144_14_40
+Old: 7619.0
+New 3122.0
+
+Route: 822UP
+Old: 7955.0
+New 673.0
+Route: 822UP
+Old: 8036.0
+New 2383.0
+Route: 822UP
+Old: 7684.0
+New 4021.0
+Route: 822UP
+Old: 7755.0
+New 7586.0
+Route: 822UP
+Old: 7992.0
+New 8127.0
+Route: 822UP
+Old: 7713.0
+New 6457.0
+Route: 822UP
+Old: 7487.0
+New 7906.0
+Route: 822UP
+Old: 8105.0
+New 8134.0
+Route: 822UP
+Old: 7965.0
+New 8142.0
+Route: 822UP
+Old: 7062.0
+New 7661.0
+Route: 822UP
+Old: 7913.0
+New 8185.0
+Route: 822UP
+Old: 7749.0
+New 7699.0
+Route: 822UP
+Old: 7629.0
+New 7913.0
+Route: 822UP
+Old: 8016.0
+New 9283.0
+Route: 822UP
+Old: 8039.0
+New 8056.0
+Route: 822UP
+Old: 7881.0
+New 8185.0
+Route: 822UP
+Old: 6101.0
+New 6301.0
+Route: 822UP
+Old: 6238.0
+New 5928.0
+Route: 822UP
+Old: 5837.0
+New 6034.0
+Route: 822UP
+Old: 6480.0
+New 6042.0
+Route: 822UP
+Old: 6737.0
+New 5906.0
+Route: 822UP
+Old: 6542.0
+New 6205.0
+Route: 822UP
+Old: 6834.0
+New 6673.0
+Route: 822UP
+Old: 5439.0
+New 5432.0
+Route: 822UP
+Old: 7405.0
+New 6606.0
+Route: 822UP
+Old: 6956.0
+New 7317.0
+Route: 822UP
+Old: 7454.0
+New 7505.0
+Route: 822DOWN
+Trip 638_15_40
+Old: 6614.0
+New 6625.0
+Route: 822DOWN
+Trip 638_15_30
+Old: 6433.0
+New 5959.0
+Route: 822DOWN
+Trip 638_15_00
+Old: 7325.0
+New 8137.0
+Route: 822DOWN
+Trip 638_14_40
+Old: 6422.0
+New 618.0
+Route: 822DOWN
+Trip 638_15_50
+Old: 6299.0
+New 1649.0
+Route: 822DOWN
+Trip 638_14_30
+Old: 6247.0
+New 4394.0
+Route: 822DOWN
+Trip 638_14_50
+Old: 6463.0
+New 5369.0
+Route: 822DOWN
+Trip 638_16_30
+Old: 6151.0
+New 6361.0
+Route: 822DOWN
+Trip 638_16_20
+Old: 6236.0
+New 20652.0
+Route: 822DOWN
+Trip 638_17_00
+Old: 6463.0
+New 6391.0
+Route: 822DOWN
+Trip 638_17_30
+Old: 6319.0
+New 6460.0
+Route: 822DOWN
+Trip 638_17_50
+Old: 6939.0
+New 5767.0
+Route: 822DOWN
+Trip 638_16_10
+Old: 6362.0
+New 6447.0
+Route: 822DOWN
+Trip 638_18_20
+Old: 6771.0
+New 9435.0
+Route: 822DOWN
+Trip 638_18_30
+Old: 6647.0
+New 6185.0
+Route: 822DOWN
+Trip 638_18_50
+Old: 6469.0
+New 6519.0
+Route: 822DOWN
+Trip 638_18_40
+Old: 6464.0
+New 6492.0
+Route: 822DOWN
+Trip 638_19_10
+Old: 1511.0
+New 6793.0
+Route: 822DOWN
+Trip 638_19_20
+Old: 7052.0
+New 6893.0
+Route: 822DOWN
+Trip 638_19_30
+Old: 6715.0
+New 6437.0
+Route: 822DOWN
+Trip 638_19_40
+Old: 6352.0
+New 6325.0
+Route: 822DOWN
+Trip 638_20_10
+Old: 7563.0
+New 6396.0
+Route: 822DOWN
+Trip 638_20_20
+Old: 7487.0
+New 6431.0
+
+
+
+Route: 834UP
+Old: 8037.0
+New 7742.0
+Route: 834UP
+Old: 8460.0
+New 8283.0
+Route: 834UP
+Old: 7717.0
+New 7543.0
+Route: 834DOWN
+Trip 1193_15_10
+Old: 5112.0
+New 5683.0
+Route: 834DOWN
+Trip 1193_16_10
+Old: 5737.0
+New 5822.0
+Route: 834DOWN
+Trip 1193_17_50
+Old: 7532.0
+New 5999.0
+
+
+
+
+Route: 961UP
+Old: 14620.0
+New 12895.0
+Route: 961UP
+Old: 13821.0
+New 12646.0
+
+Route: 873UP
+Old: 7178.0
+New 11832.0
+Route: 873UP
+Old: 4848.0
+New 4534.0
+Route: 873DOWN
+Trip 594_17_40
+Old: 7558.0
+New 5669.0
+Route: 873DOWN
+Trip 594_16_30
+Old: 4216.0
+New 5468.0
+Route: 873DOWN
+Trip 594_14_30
+Old: 4744.0
+New 4701.0
+
+Route: 961UP
+Old: 14620.0
+New 12895.0
+Route: 961UP
+Old: 13821.0
+New 12646.0
+
+Route: 873UP
+Old: 7178.0
+New 11832.0
+Route: 873UP
+Old: 4848.0
+New 4534.0
+Route: 873DOWN
+Trip 594_17_40
+Old: 7558.0
+New 5669.0
+Route: 873DOWN
+Trip 594_16_30
+Old: 4216.0
+New 5468.0
+Route: 873DOWN
+Trip 594_14_30
+Old: 4744.0
+New 4701.0
+
+Route: 998UP
+Old: 7163.0
+New 6536.0
+Route: 998UP
+Old: 7533.0
+New 6345.0
+Route: 998UP
+Old: 6750.0
+New 6978.0
+Route: 998UP
+Old: 8349.0
+New 7036.0
+Route: 998UP
+Old: 8991.0
+New 6872.0
+Route: 998UP
+Old: 7615.0
+New 6718.0
+Route: 998DOWN
+Trip 700_15_30
+Old: 5936.0
+New 5308.0
+Route: 998DOWN
+Trip 700_14_40
+Old: 5953.0
+New 912.0
+Route: 998DOWN
+Trip 700_16_30
+Old: 5218.0
+New 5359.0
+Route: 998DOWN
+Trip 700_17_00
+Old: 4967.0
+New 5293.0
+Route: 998DOWN
+Trip 700_18_50
+Old: 8103.0
+New 5580.0
+
+Route: 806UP
+Old: 3921.0
+New 7144.0
+Route: 806UP
+Old: 7981.0
+New 16584.0
+Route: 806UP
+Old: 6520.0
+New 19587.0
+Route: 806DOWN
+Trip 304_17_20
+Old: 6224.0
+New 6009.0
+Route: 806DOWN
+Trip 304_16_30
+Old: 4801.0
+New 5883.0
+
+Route: 824UP
+Old: 4834.0
+New 4329.0
+Route: 824UP
+Old: 4545.0
+New 4059.0
+Route: 824UP
+Old: 6052.0
+New 4794.0
+Route: 824UP
+Old: 4422.0
+New 5606.0
+Route: 824DOWN
+Trip 1144_16_40
+Old: 4174.0
+New 6543.0
+Route: 824DOWN
+Trip 1144_18_10
+Old: 4948.0
+New 4820.0
+Route: 824DOWN
+Trip 1144_14_50
+Old: 6272.0
+New 6920.0
+Route: 824DOWN
+Trip 1144_14_40
+Old: 7619.0
+New 3122.0
+
+Route: 885DOWN
+Trip 429_15_40
+Old: 4177.0
+New 4860.0
+Route: 885DOWN
+Trip 429_15_00
+Old: 4732.0
+New 5953.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ISBT Kashmere Gate to Sarai kale Khan
+
+
+
+
+
+Route: 139UP
+Old: 5912.0
+New 438.0
+Route: 139UP
+Old: 7011.0
+New 6654.0
